@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40-Eng-YaxyeMuxamed1+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40-Eng-YaxyeMuxamed1+%F0%9F%91%8B)](https://git.io/typing-svg)]
+
 <h3 align="center">A passionate backend and frontend developer from United States</h3>
+
 
 - 🔭 I’m currently working on [Game of Life](https://yaxyemuxamed.github.io/Game-Of-Life/)
 
