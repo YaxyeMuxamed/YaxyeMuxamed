@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me: </h3>
 
 <p align="left">
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/yaxye-muxamed-311625195//)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/yaxye-muxamed-311625195/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
