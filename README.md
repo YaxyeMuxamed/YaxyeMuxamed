@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, JavaScript,C++,C, HTML, and CSS.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/yaxye-muxamed-311625195//)</h3>
 <p align="left">
 </p>
 
