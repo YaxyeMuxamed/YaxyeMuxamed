@@ -5,7 +5,7 @@
 
 🔭 I’m currently studying at the University of Washington.
 
-- 🔭 I’m currently working on [Game of Life](https://yaxyemuxamed.github.io/Game-Of-Life/)
+- 🔭 I’m currently working on [Evolving Colors](https://yaxyemuxamed.github.io/evolivng-colors/)
 
 - 🌱 I’m currently learning **Artificaial Intellegent**
 
